@@ -4,5 +4,6 @@ Rencana kegiatan
   -es6
   -framework javascript
 -mempelajari github
+-fundamental datastructure
 -membuat chanel youtube
 
