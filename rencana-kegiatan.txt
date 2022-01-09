@@ -3,7 +3,9 @@ Rencana kegiatan
 -mempelajari html,css,javascript
   -es6
   -framework javascript
+    >angular
+    >react
 -mempelajari github
--fundamental datastructure
+  >LARAVEL    
 -membuat chanel youtube
 
