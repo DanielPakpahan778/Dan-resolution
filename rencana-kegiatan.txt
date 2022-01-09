@@ -1,6 +1,8 @@
 Rencana kegiatan 
 
 -mempelajari html,css,javascript
+  -es6
+  -framework javascript
 -mempelajari github
 -membuat chanel youtube
 
